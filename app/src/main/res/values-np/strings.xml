@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmployeeInfo</string>
+    <string name="employee_image">Employee Image</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+  
+    <string name="list">सूची</string>
+    <string name="search_hint">खोजी सङ्केत</string>
+
+    <!-- Details-->
+    <string name="DetailsTitle">विवरण शीर्षक</string>
+    <string name="DetailsUpdate">विवरण अद्यावधिक</string>
+
+
+    <string name="AddTitle">शीर्षक थप्नुहोस्</string>
+    <string name="gallery_title">ग्यालरी</string>
+    <string name="camera_title">क्यामेरा</string>
+    <string name="name_title">नाम</string>
+    <string name="surname_title">उपनाम</string>
+    <string name="phone_number">फोन नम्बर</string>
+    <string name="email_title">इमेल</string>
+    <string name="job_title">कार्य शीर्षक</string>
+    <string name="residence_title">निवास</string>
+
+    <string name="first_name_hint">पहिलो नाम</string>
+    <string name="last_name_hint">अन्तिम नाम</string>
+    <string name="phone_hint">फोन</string>
+    <string name="mail_hint">मेल</string>
+    <string name="job_hint">कार्य</string>
+    <string name="residence_hint">निवास</string>
+
+   
+    <string name="params_header">कर्मचारी जानकारी</string>
+
+   
+    <string name="language_title">नेपाली</string>
+
+  
+    <string name="theme_title">थिम</string>
+    <string name="theme_on">अन</string>
+    <string name="theme_off">अफ</string>
+
+    <string name="about_us_title">हाम्रो बारेमा</string>
+    <string name="about_us_summary">यस एपको बारेमा थप जान्नुहोस्</string>
+</resources>

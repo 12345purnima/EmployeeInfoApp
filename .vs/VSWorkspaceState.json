@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\res",
+    "\\app\\src\\main\\res\\values",
+    "\\app\\src\\main\\res\\values-np",
+    "\\app\\src\\test",
+    "\\gradle",
+    "\\gradle\\wrapper"
+  ],
+  "SelectedNode": "\\app\\src\\main\\res\\values-np",
+  "PreviewInSolutionExplorer": false
+}
